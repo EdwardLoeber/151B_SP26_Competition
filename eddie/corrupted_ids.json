@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "$int_{-infty}^{+infty} frac{a^{3/2}}{s^2+a^2} ds = $"
+  },
+  {
+    "id": 48,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Integral $int_{0}^{4}{frac{sqrt{x}}{1+xsqrt{x}}}dx=$"
+  },
+  {
+    "id": 313,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Given the integral $A=int_{0.25{pi}}^{1.25 pi} (sin^2 x +1)dx$, which of the following estimates is correct?"
+  },
+  {
+    "id": 387,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Given $ x=acos t, y=bsin t $ ($t$ is a parameter), then $frac{{{text{d}}^{2}}y}{text{d}{{x}^{2}}}=$( )."
+  },
+  {
+    "id": 563,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Given the equation $F(x+y,y+z)=1$ defines the implicit function $z=z(x,y)$, where $F$ has continuous second-order partia"
+  },
+  {
+    "id": 596,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "If the function $y=y(x)$ is determined by the equation ${{text{e}}^{x+y}}=xy+1$, then ( )."
+  },
+  {
+    "id": 699,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Find the Maclaurin series for the function: $f(x) = \\cos(x) - x \\cdot \\sin(x)$."
+  },
+  {
+    "id": 819,
+    "reason": "stripped-backslash LaTeX (unanswerable as written)",
+    "question_preview": "Given $L$ as the part of the ellipse $frac{{{x}^{2}}}{{{a}^{2}}}+frac{{{y}^{2}}}{{{b}^{2}}}=1$ in the first quadrant, th"
+  }
+]

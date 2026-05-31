@@ -1,0 +1,33 @@
+[
+  {
+    "id": 139,
+    "answer": [
+      "(-x - sqrt(9 - (y-5*b)**2))/(--4)",
+      "(-x + sqrt(9 - (y-5*b)**2))/(--4)"
+    ],
+    "bucket": "free_multi"
+  },
+  {
+    "id": 649,
+    "answer": [
+      "0.18%"
+    ],
+    "bucket": "free_single"
+  },
+  {
+    "id": 759,
+    "answer": [
+      "12+20/4",
+      ">",
+      "(12+20)/4"
+    ],
+    "bucket": "free_multi"
+  },
+  {
+    "id": 763,
+    "answer": [
+      "80%"
+    ],
+    "bucket": "free_single"
+  }
+]
